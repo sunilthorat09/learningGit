@@ -1,2 +1,2 @@
 ﻿my first git file..edited locaslly
-﻿chnages on githum.com
+﻿chnages written on githum.com
